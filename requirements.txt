@@ -1,0 +1,3 @@
+langflow==1.0.10
+streamlit
+
