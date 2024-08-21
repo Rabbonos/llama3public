@@ -1,3 +1,4 @@
+UPDATE: THE LINK DOES NOT WORK ANYMORE, I DID NOT EXPECT THE JUDJING PROCESS TO TAKE MORE THAN A MONTH, SO I HAD TO TURN OFF THE WEBSITE
 URL of the site:  http://34.139.83.117/ - here you might access the app. The app was deployed using google cloud + docker-composer (https://docs.docker.com/compose/gettingstarted/ ) 
 
 ML/AI api token is : XXXX (can provide if you ask in discord) 
